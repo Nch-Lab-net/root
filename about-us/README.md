@@ -8,7 +8,7 @@
 
 - Nch MOSFET
 
-もし、参加を希望する方がいらっしゃいましたらDMにてその旨お教え頂ければ対応いたします
+もし、参加を希望する方がいらっしゃいましたら<a href="https://twitter.com/message/compose?recipient_id=1358261719701721088">DM</a>にてその旨お教え頂ければ対応いたします
 
 # Activity
 
