@@ -26,5 +26,5 @@ YouTubeチャンネル <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzy
 
 - サブドメイン（最大3つ）
   - 「\~\~\~\~.nchlab.net」の形になります。Webサイト公開、サーバ接続用等
-  - Webサイトを公開したい場合、<a href="https://github.com/Nch-Lab">の専用リポジトリとGitHub Pagesを使用します
+  - Webサイトを公開したい場合、<a href="https://github.com/Nch-Lab">Nch-Labアカウント</a>の専用リポジトリとGitHub Pagesを使用します
   
