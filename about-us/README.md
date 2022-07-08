@@ -20,6 +20,9 @@
 YouTubeチャンネル <a href="https://www.youtube.com/channel/UCHh3sU1-ILivTzyj8Z14X7w" target="_blank" rel="noopener noreferrer">Nch-Lab</a>  
 2022年7月現在まだ何も投稿していませんが、きまぐれで動画を投稿していくつもりです
 
+Discordサーバ <a href="https://discord.gg/r3HeMB2B6a" target="_blank" rel="noopener norefferrer">Nch-Lab会議室</a>  
+誰でも参加可能です
+
 # Appendix
 
 以下、メンバーに提供予定のものです
