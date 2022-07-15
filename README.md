@@ -14,6 +14,8 @@ GitHubの専用アカウントでリポジトリを作ってページを公開�
 | pages | 個人サイト扱いのページ | [pages.nchlab.net](https://pages.nchlab.net) |
 | docs | 様々なドキュメントの集合。誰かの参考になるようなサイトを目指しています | [docs.nchlab.net](https://docs.nchlab.net) |
 
+## Nch Labについて
 
+[About US](./about-us)を御覧ください
 
 #### 誤字脱字等ございましたらプルリクエストで修正をお願いします。こちらで確認の上、反映します
