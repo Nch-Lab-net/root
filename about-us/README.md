@@ -25,9 +25,4 @@ Discordサーバ <a href="https://discord.gg/r3HeMB2B6a" target="_blank" rel="no
 
 # Appendix
 
-以下、メンバーに提供予定のものです
-
-- サブドメイン（最大3つ）
-  - 「\~\~\~\~.nchlab.net」の形になります。Webサイト公開、サーバ接続用等
-  - Webサイトを公開したい場合、<a href="https://github.com/Nch-Lab">Nch-Labアカウント</a>の専用リポジトリとGitHub Pagesを使用します
-  
+メンバには何かしら特典を付与しようと思っています。詳細は新規メンバが加入したら考えます
