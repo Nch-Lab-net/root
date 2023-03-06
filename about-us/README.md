@@ -1,6 +1,6 @@
 # About "Nch-Lab"
 
-「Nch-Lab」とは、ワタクシ<a href="https://twitter.com/Nch_MOSFET" target="_blank" rel="noopener noreferrer">Nch MOSFET</a>の活動拠点として設立したものづくりサークルです。
+「Nch-Lab」とは、ワタクシ <a href="https://twitter.com/53175DDD" target="_blank" rel="noopener noreferrer">Nch MOSFET</a> の活動拠点として設立したものづくりサークルです。
 
 ...ということにしてはいますが、メンバーは一人だけなのでサークルといってもそんな大層なものではありません
 
