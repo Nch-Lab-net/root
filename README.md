@@ -12,7 +12,7 @@ GitHubの専用アカウントでリポジトリを作ってページを公開�
 |----|----|----|
 | - | サイト全体の説明等（このページ） | [nchlab.net](https://nchlab.net/) |
 | pages | 個人サイト扱いのページ | [pages.nchlab.net](https://pages.nchlab.net/) |
-| docs | 様々なドキュメントの集合。誰かの参考になるようなサイトを目指しています | [docs.nchlab.net](https://docs.nchlab.net/) |]
+| docs | 様々なドキュメントの集合。誰かの参考になるようなサイトを目指しています | [docs.nchlab.net](https://docs.nchlab.net/) |
 | circle | サークル活動に関連するサイト | [circle.nchlab.net](https://circle.nchlab.net/) |
 
 ## Nch Labについて
