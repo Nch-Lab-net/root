@@ -2,13 +2,14 @@
 
 「Nch-Lab」とは、ワタクシ <a href="https://twitter.com/53175DDD" target="_blank" rel="noopener noreferrer">Nch MOSFET</a> の活動拠点として設立したものづくりサークルです。
 
-...ということにしてはいますが、メンバーは一人だけなのでサークルといってもそんな大層なものではありません
+...ということにしてはいますが、メンバーは二人だけなのでサークルといってもそんな大層なものではありません
 
 # Members
 
-- Nch MOSFET
+- Nch MOSFET [@53175ddd](https://twitter.com/53175ddd)
+- はるさめ [@HarusameTech](https://twitter.com/HarusameTech)
 
-もし、参加を希望する方がいらっしゃいましたら<a href="https://www.twitter.com/messages/compose?recipient_id=1358261719701721088">DM</a>にてその旨お教え頂ければ対応いたします
+もし、参加を希望する方がいらっしゃいましたら <a href="https://www.twitter.com/messages/compose?recipient_id=1358261719701721088">DM</a> にてその旨お教え頂ければ対応いたします
 
 # Activity
 
