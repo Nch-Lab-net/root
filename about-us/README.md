@@ -7,6 +7,7 @@
 # Members
 
 - MOS [@53175ddd](https://twitter.com/53175ddd)
+- ときわ 61号 [@Limited_Exp_61M](https://twitter.com/Limited_Exp_61M)
 - はるさめ [@HarusameTech](https://twitter.com/HarusameTech)
 
 もし、参加を希望する方がいらっしゃいましたら <a href="https://www.twitter.com/messages/compose?recipient_id=1358261719701721088">DM</a> にてその旨お教え頂ければ対応いたします
